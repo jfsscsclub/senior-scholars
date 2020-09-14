@@ -10,9 +10,7 @@ We will be using the issues page to store all of our request, and we will try ou
 
 ### What should my issue/request look like?
 
-Help us help you!
-
-When you create an issue, you should be asked to choose from a list of issue templates. 
+Help us help you! When you create an issue, you should be asked to choose from a list of issue templates. 
 
 Click **Get started** on the **Request for help** issue template.
 
