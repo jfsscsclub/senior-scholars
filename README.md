@@ -6,7 +6,7 @@ This will be the main workspace for the senior scholars team. This year is parti
 
 It's pretty simple! If you want to ask a question, need help with your code, or have any other concerns, just create an issue in this Github repository by going to the [issues page](https://github.com/JFSS-CS-Club/senior-scholars/issues/new/choose).
 
-We will be using the issues page to store all of our request, and we will try our best to assign an available senior scholar to your request within a few hours.
+We will be using the issues page to store all student requests, and we will try our best to assign an available senior scholar to your request within a few hours.
 
 ### What should my issue/request look like?
 
